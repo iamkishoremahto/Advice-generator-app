@@ -52,6 +52,7 @@
   border-radius: 50%;
   background-color: hsl(150, 100%, 66%);
   transition: 0.2s ease-in-out;
+  cursor: pointer;
 }
 .main_wrapper .container .advaice_wrapper .dice:hover {
   box-shadow: hsl(150, 100%, 66%) 0px 7px 29px 0px;
